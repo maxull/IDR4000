@@ -1,1 +1,1 @@
-# daniels_R_course
+# Masters level statistics course from Inland University of Applied Sciences in Lillehammer, Norway
